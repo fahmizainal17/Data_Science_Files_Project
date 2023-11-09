@@ -1,9 +1,6 @@
 # Data-Science-
 
-Certainly! Here's the entire conversation summary formatted in Markdown for your README:
-
-```markdown
-# Python Conversation Summary
+# Python Basic Coding
 
 ## 1. Checking Consecutive Meals
 
@@ -61,4 +58,3 @@ planet = "B" + planet[1:]  # Modifying the first character
 planet += " and Mars"  # Appending to the string
 ```
 
-Feel free to copy and paste this Markdown code into your README file on GitHub. If you have any more questions or need further assistance, let me know!
